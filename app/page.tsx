@@ -38,7 +38,7 @@ export default function Page() {
       </h1>
 
       {/* ส่วนของ Link ที่จะเปิดไปยังหน้า Page ต่างๆ */}
-      <div className="mt-10 flex">
+      <div className="mt-10 flex ">
         <Link href="/body/calbmi"
               className="text-cyan-500 hover:text-cyan-700 mx-3 hover:underline">
           BMI Calculator

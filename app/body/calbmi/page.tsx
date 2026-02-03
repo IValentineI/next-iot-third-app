@@ -7,6 +7,7 @@ import bmi2 from "@/assets/images/bmi2.png";
 import { SauFooter } from "@/components/SauFooter";
 
 export default function Page() {
+
   //สร้าง state เพื่อจัดการกับค่าข้อมูลใน Componenadt
   const [weight, setWeight] = useState("");
   const [height, setHeight] = useState("");
