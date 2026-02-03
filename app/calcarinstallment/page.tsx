@@ -190,7 +190,7 @@ export default function Page() {
             className="w-full bg-blue-500 hover:bg-blue-700
                           text-white font-bold p-2 mt-5 rounded"
           >
-            คำนวณ CarInstallment
+            คำนวณ Car Installment
           </button>
           <button
             onClick={handleClearClick}
