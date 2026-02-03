@@ -18,7 +18,7 @@ export function SauHeader() {
               |
               <Link href="/calcarinstallment"
                     className="text-white hover:text-cyan-100 mx-3">
-                Car Installment
+                Car Installment 🚘
               </Link>
             </div>
     </div>
